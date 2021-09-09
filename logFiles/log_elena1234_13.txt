@@ -1,0 +1,51 @@
+================================================================
+User ID: 13
+Exam ID: 7
+================================================================
+Questions:
+----------------------------------------------------------------
+Question ID: 42
+Which of the following is not a category of computer based on size
+1. Mainframe Computer
+2. Micro Computer
+3. Mini Computer
+4. Digital Computer
+Correct: 4
+User answer: 2 (Date: 2018-10-01, Time: 05:18:19)
+----------------------------------------------------------------
+Question ID: 27
+Which of the following is a central repository for data from various sources within the organization
+1. Electronic Health Record
+2. Hospital-Wide System
+3. Data Warehouse
+4. Data Mine
+Correct: 3
+User answer: 2 (Date: 2018-10-01, Time: 05:18:40)
+----------------------------------------------------------------
+Question ID: 3
+Which is not consisted in a processor
+1. ALU
+2. CU
+3. Memory
+4. Registers
+Correct: 3
+User answer: 3 (Date: 2018-10-01, Time: 05:18:26)
+----------------------------------------------------------------
+Question ID: 16
+The term bugs refers to
+1. encoding of data
+2. transmission of data
+3. errors in a computer program
+4. decoding of data
+Correct: 3
+User answer: 2 (Date: 2018-10-01, Time: 05:18:32)
+----------------------------------------------------------------
+Question ID: 48
+In which language is source program written
+1. English
+2. Symbolic
+3. High Level
+4. Temporary
+Correct: 3
+User answer: 3 (Date: 2018-10-01, Time: 05:18:52)
+----------------------------------------------------------------
