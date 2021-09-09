@@ -1,0 +1,103 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 25, 2018, 5:31:37 PM
+    Author     : Maria
+*/
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ebfafa;
+}
+
+
+header {
+    padding: 1em;
+    color: white;
+	background-color: darkcyan;
+	clear: left;
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+	background-color: #056868;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    
+	background-color: #009999;
+    color: black;
+}
+
+/* Style the content */
+.content {
+	text-align: center;
+
+    padding: 1em;
+    overflow: hidden;
+}
+
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.results {
+    font-size: 20px;
+	text-align: center;
+  
+  background: #a4d6d6; 
+  margin-top: 0;
+}
+
+.exresults {
+    font-size: 18px;
+    text-align: center;
+  
+  background: #d0f2f2; 
+   margin-top: 0;
+  
+}
+
+.title {
+    background: #83c9c9;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #009999;
+  border: none;
+  border-radius: 5px;
+}
+
+
+
